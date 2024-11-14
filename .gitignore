@@ -1,0 +1,7 @@
+# .gitignore para un proyecto de C#
+bin/
+obj/
+*.user
+*.suo
+*.csproj.user
+*.pdb
