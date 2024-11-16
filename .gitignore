@@ -1,4 +1,4 @@
-# .gitignore para un proyecto de C#
+# .gitignore 
 bin/
 obj/
 *.user
